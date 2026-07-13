@@ -365,3 +365,21 @@ footer .link a {
     transform: scaleX(0.2);
   }
 }
+
+.side-info {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.side-info img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.side-info p {
+  margin-top: 12px;
+  font-size: 14px;
+  color: #555; /* sesuaikan dengan warna tema kamu */
+}
